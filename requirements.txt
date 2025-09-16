@@ -1,0 +1,9 @@
+slack_bolt
+python-dotenv
+pandas
+google-generativeai
+requests
+loguru
+openpyxl
+pytest
+pytest-mock
